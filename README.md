@@ -1,4 +1,4 @@
-# React App with `apollo-link-state`
+# Full-Stack Express / React App with Apollo Client 2.x
 
 To run: `yarn start`
 
